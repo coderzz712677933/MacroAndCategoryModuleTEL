@@ -1,0 +1,6 @@
+use_frameworks!
+target 'MacroAndCategoryModuleTEL_Tests' do
+  pod 'MacroAndCategoryModuleTEL', :path => '../'
+  
+  
+end
