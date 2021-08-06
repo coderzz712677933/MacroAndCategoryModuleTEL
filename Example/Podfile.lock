@@ -1,0 +1,16 @@
+PODS:
+  - MacroAndCategoryModuleTEL (0.1.0)
+
+DEPENDENCIES:
+  - MacroAndCategoryModuleTEL (from `../`)
+
+EXTERNAL SOURCES:
+  MacroAndCategoryModuleTEL:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MacroAndCategoryModuleTEL: 581e5ee779fcb4f05bb445453006e2a80ab03416
+
+PODFILE CHECKSUM: 5b37f54e478aad6556523896b003ae5b2db67ba4
+
+COCOAPODS: 1.10.2

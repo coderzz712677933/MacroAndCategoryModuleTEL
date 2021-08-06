@@ -1,0 +1,6 @@
+framework module MacroAndCategoryModuleTEL {
+  umbrella header "MacroAndCategoryModuleTEL-umbrella.h"
+
+  export *
+  module * { export * }
+}
