@@ -10,6 +10,10 @@
 #endif
 #endif
 
+#import "LGMacros.h"
+#import "NSString+Custom.h"
+#import "UIColor+Custom.h"
+#import "UIViewController+CurrentViewController.h"
 
 FOUNDATION_EXPORT double MacroAndCategoryModuleTELVersionNumber;
 FOUNDATION_EXPORT const unsigned char MacroAndCategoryModuleTELVersionString[];
